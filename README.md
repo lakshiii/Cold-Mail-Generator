@@ -3,8 +3,8 @@ The Cold Mail Generator is a cutting-edge tool designed to streamline business o
 
 
 
-Tech Stack
-Groq
-LangChain
-Streamlit
-ChromaDB (Vector Database)
+Tech Stack:
+Groq,
+LangChain,
+Streamlit,
+ChromaDB (Vector Database).
